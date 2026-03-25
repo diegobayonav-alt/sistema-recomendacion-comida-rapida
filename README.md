@@ -12,7 +12,7 @@ Además, muchas plataformas no personalizan adecuadamente las recomendaciones qu
 </p>
 
 ## 📌 Objetivo
-Desarolar un sistema basado en la información de nuestros usuariosque permita recomendar opciones de comida rápida de forma persnalizada, optimizando la experiencia del usuario.
+Desarollar un sistema basado en la información de nuestros usuarios que permita recomendar opciones de comida rápida de forma persnalizada, optimizando la experiencia del usuario.
 
 ## ⚙️ Funcionamiento del Sistema
 EL sistema opera mediante el siguiente flujo:
