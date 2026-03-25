@@ -26,7 +26,7 @@ EL sistema opera mediante el siguiente flujo:
 5. Se genera un ranking con las mejores recomendaciones
 
 <p align="center">
-    <img src="PASO A PASO SISTEMA.png" alt="Descripción" width="500"/>
+    <img src="PASO A PASO SISTEMA.png" alt="Descripción" width="700"/>
 </p>
 
 ## Datos que se utilizan
