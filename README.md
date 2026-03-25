@@ -19,11 +19,11 @@ Desarollar un sistema basado en la información de nuestros usuarios que permita
 
 ## Funcionamiento del Sistema
 EL sistema opera mediante el siguiente flujo:
-1. EL usuario ingresa sus preferencias (tipo de comida, presupuesto, alergias, etc.)
-2. EL sistema accede a una base de datos de productos
-3. Se aplican los filtros según las preferencias
-4. Se calcula un puntaje para cada opción
-5. Se genera un ranking con las mejores recomendaciones
+**1.** EL usuario ingresa sus preferencias (tipo de comida, presupuesto, alergias, etc.)
+**2.** EL sistema accede a una base de datos de productos
+**3.** Se aplican los filtros según las preferencias
+**4.** Se calcula un puntaje para cada opción
+**5.** Se genera un ranking con las mejores recomendaciones
 
 <p align="center">
     <img src="PASO A PASO SISTEMA.png" alt="Descripción" width="700"/>
