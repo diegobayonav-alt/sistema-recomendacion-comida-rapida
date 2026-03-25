@@ -1,4 +1,4 @@
-<img align="right" width="150" src="tu_imagen.jpg">
+<img align="right" width="150" src="Logo comida.png">
 
 <h1 align= "center"> Sistema de Recomendación de Comida Rápida</h1>
 
