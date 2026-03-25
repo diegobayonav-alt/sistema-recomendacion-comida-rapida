@@ -75,9 +75,9 @@ Se pueden aplicar técnicas como:
 
  ## Resultados Esperados
   Se espera que:
-  - Generar recomendaciones personalizadas
-  - Mejorar la experiencia del usuario
-  - Reducir el tiempo de decisión
+- [x] **Personalización total:** Generar recomendaciones basadas en el perfil único de cada usuario.
+- [x] **Optimización de UX:** Mejorar la experiencia del usuario mediante una interfaz intuitiva.
+- [x] **Eficiencia:** Reducir drásticamente el tiempo de decisión en plazas de comidas.
 
  ## Autores
 - Cardenas Castro, Kiary Danisha
