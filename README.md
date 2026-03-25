@@ -66,5 +66,9 @@ Se pueden aplicar técnicas como:
  ## Autores
 - Cardenas Castro, Kiary Danisha
 - Bayona Vergara, Diego Alejandro
-- Rivera Garzon, Luciana 
+- Rivera Garzon, Luciana
+
+<!-- Ejemplos -->
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Licencia](https://img.shields.io/badge/licencia-MIT-green)
    
