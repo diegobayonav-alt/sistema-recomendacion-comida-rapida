@@ -7,6 +7,10 @@ A partir del procesamiento de la información, el sistema busca identificar las 
 En la actualidad, los usuarios tienen tantas opciones de comida rápida lo cual hace que la toma de decisiones sea cada vez más complicada.
 Además, muchas plataformas no personalizan adecuadamente las recomendaciones que hacen, ofreciendo opciones poco relevantes para cada usuario.
 
+<p align="center">
+    <img src="food-garden-jardin-plaza.jpg" alt="Descripción" width="500"/>
+</p>
+
 ## 📌 Objetivo
 Desarolar un sistema basado en la información de nuestros usuariosque permita recomendar opciones de comida rápida de forma persnalizada, optimizando la experiencia del usuario.
 
