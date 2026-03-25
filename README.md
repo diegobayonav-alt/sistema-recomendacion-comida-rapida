@@ -1,3 +1,5 @@
+<img align="right" width="150" src="tu_imagen.jpg">
+
 <h1 align= "center"> Sistema de Recomendación de Comida Rápida</h1>
 
 *Este proyecto consiste en el desarrollo de un sistema de recomendación de comida rápida que sugiere opciones personalizadas a los usuarios en función de sus preferencias.
