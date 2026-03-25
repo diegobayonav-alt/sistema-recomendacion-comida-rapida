@@ -11,7 +11,7 @@ Además, muchas plataformas no personalizan adecuadamente las recomendaciones qu
     <img src="food-garden-jardin-plaza.jpg" alt="Descripción" width="500"/>
 </p>
 
-## 📌 Objetivo
+## Objetivo
 Desarollar un sistema basado en la información de nuestros usuarios que permita recomendar opciones de comida rápida de forma persnalizada, optimizando la experiencia del usuario.
 
 ## ⚙️ Funcionamiento del Sistema
@@ -22,7 +22,7 @@ EL sistema opera mediante el siguiente flujo:
 4. Se calcula un puntaje para cada opción
 5. Se genera un ranking con las mejores recomendaciones
 
-## 📂 Datos que se utilizan
+## Datos que se utilizan
 EL sistema utiliza un conjunto de datos que incluye:
 - Nombre del producto
 - Categoría (hamburguesa, pizza, pollo, etc.)
@@ -30,7 +30,7 @@ EL sistema utiliza un conjunto de datos que incluye:
 - Ingredientes
 - Información nutricional
 
-## 🚀 Metodología
+## Metodología
 El desarollo del sistema sigue el siguiente enfoque:
 - Limpieza y preparación de datos
 - Análisis exploratorio
@@ -42,18 +42,18 @@ Se pueden aplicar técnicas como:
 - Sistemas de recomendación basados en contenido
 - Análisis de similitud
 
- ## 🔧 Tecnologías
+ ## Tecnologías
   Las herramientas propuestas para el desarollo incluyen:
   - Python
   - Git y GitHub
 
- ## 📈 Resultados Esperados
+ ## Resultados Esperados
   Se espera que:
   - Generar recomendaciones personalizadas
   - Mejorar la experiencia del usuario
   - Reducir el tiempo de decisión
 
- ## Autores ✒️
+ ## Autores
 - Cardenas Castro, Kiary Danisha
 - Bayona Vergara, Diego Alejandro
 - Rivera Garzon, Luciana 
