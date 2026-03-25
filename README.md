@@ -3,7 +3,7 @@
 *Este proyecto consiste en el desarrollo de un sistema de recomendación de comida rápida que sugiere opciones personalizadas a los usuarios en función de sus preferencias.
 A partir del procesamiento de la información, el sistema busca identificar las mejores opciones disponibles considerando factores como precio, tipo de comida, gustos personales y restricciones alimenticias.*
 
-## ❗ Problema
+## Problema
 En la actualidad, los usuarios tienen tantas opciones de comida rápida lo cual hace que la toma de decisiones sea cada vez más complicada.
 Además, muchas plataformas no personalizan adecuadamente las recomendaciones que hacen, ofreciendo opciones poco relevantes para cada usuario.
 
@@ -14,7 +14,7 @@ Además, muchas plataformas no personalizan adecuadamente las recomendaciones qu
 ## Objetivo
 Desarollar un sistema basado en la información de nuestros usuarios que permita recomendar opciones de comida rápida de forma persnalizada, optimizando la experiencia del usuario.
 
-## ⚙️ Funcionamiento del Sistema
+## Funcionamiento del Sistema
 EL sistema opera mediante el siguiente flujo:
 1. EL usuario ingresa sus preferencias (tipo de comida, presupuesto, alergias, etc.)
 2. EL sistema accede a una base de datos de productos
