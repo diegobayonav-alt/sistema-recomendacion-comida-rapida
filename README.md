@@ -28,7 +28,7 @@ EL sistema opera mediante el siguiente flujo:
 
 4. Se calcula un puntaje para cada opción
 
-5. Se genera un ranking con las mejores recomendaciones>
+5. Se genera un ranking con las mejores recomendaciones
 
 <p align="center">
     <img src="PASO A PASO SISTEMA.png" alt="Descripción" width="700"/>
