@@ -11,7 +11,7 @@ En la actualidad, los usuarios tienen tantas opciones de comida rápida lo cual 
 Además, muchas plataformas no personalizan adecuadamente las recomendaciones que hacen, ofreciendo opciones poco relevantes para cada usuario.
 
 <p align="center">
-    <img src="food-garden-jardin-plaza.jpg" alt="Descripción" width="500"/>
+    <img src="indeciso.jpg" alt="Descripción" width="700"/>
 </p>
 
 ## Objetivo
