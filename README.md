@@ -20,9 +20,9 @@ Desarollar un sistema basado en la información de nuestros usuarios que permita
 ## Funcionamiento del Sistema
 EL sistema opera mediante el siguiente flujo:
 
-1. EL usuario ingresa sus preferencias (tipo de comida, presupuesto, alergias, etc.)
+1. El usuario ingresa sus preferencias (tipo de comida, presupuesto, alergias, etc.)
 
-2. EL sistema accede a una base de datos de productos
+2. El sistema accede a una base de datos de productos
 
 3. Se aplican los filtros según las preferencias
 
