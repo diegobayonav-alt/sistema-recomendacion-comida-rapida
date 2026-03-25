@@ -50,6 +50,12 @@ El desarollo del sistema sigue el siguiente enfoque:
 - Análisis exploratorio
 - Filtrado basado en preferencias
 - Sistema de puntuación y ranking
+
+<p align="center">
+    <img src="metodologia.png" alt="Descripción" width="500"/>
+</p>
+
+
   
 Se pueden aplicar técnicas como:
 
