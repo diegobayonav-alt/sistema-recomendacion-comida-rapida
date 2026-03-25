@@ -36,7 +36,7 @@ EL sistema utiliza un conjunto de datos que incluye:
 
 El sistema utiliza un conjunto de datos que incluye los siguientes campos:
 | Atributo | Descripción |
-| :--- | :--- |
+| :---: | :---: |
 | **Nombre del producto** | Nombre comercial del alimento. |
 | **Categoría** | Clasificación (ej: hamburguesa, pizza, pollo, etc.). |
 | **Calificación** | Puntaje o evaluación de los usuarios. |
