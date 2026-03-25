@@ -55,8 +55,6 @@ El desarollo del sistema sigue el siguiente enfoque:
     <img src="metodologia.png" alt="Descripción" width="700"/>
 </p>
 
-
-  
 Se pueden aplicar técnicas como:
 
 - Sistemas de recomendación basados en contenido
