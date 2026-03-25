@@ -3,7 +3,7 @@
 <h1 align="center">Sistema de Recomendación de Comida Rápida</h1>
 <br>
 
-*Este proyecto consiste en el desarrollo de un sistema de recomendación de comida rápida que sugiere opciones personalizadas a los usuarios en función de sus preferencias.
+*Este proyecto consiste en el desarrollo de un sistema de recomendación de comida rápida que **sugiere opciones personalizadas a los usuarios en función de sus preferencias.**
 A partir del procesamiento de la información, el sistema busca identificar las mejores opciones disponibles considerando factores como precio, tipo de comida, gustos personales y restricciones alimenticias.*
 
 ## Problema
