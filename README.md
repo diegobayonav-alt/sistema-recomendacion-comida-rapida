@@ -52,7 +52,7 @@ El desarollo del sistema sigue el siguiente enfoque:
 - Sistema de puntuación y ranking
 
 <p align="center">
-    <img src="metodologia.png" alt="Descripción" width="500"/>
+    <img src="metodologia.png" alt="Descripción" width="700"/>
 </p>
 
 
