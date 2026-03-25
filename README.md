@@ -7,7 +7,7 @@
 A partir del procesamiento de la información, el sistema busca identificar las mejores opciones disponibles considerando factores como precio, tipo de comida, gustos personales y restricciones alimenticias.*
 
 ## Problema
-En la actualidad, los usuarios tienen tantas opciones de comida rápida lo cual hace que la toma de decisiones sea cada vez más complicada.
+En la actualidad, los usuarios tienen **tantas opciones** de comida rápida lo cual hace que la toma de decisiones sea cada vez más complicada.
 Además, muchas plataformas no personalizan adecuadamente las recomendaciones que hacen, ofreciendo opciones poco relevantes para cada usuario.
 
 <p align="center">
