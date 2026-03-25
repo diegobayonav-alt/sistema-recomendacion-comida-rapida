@@ -18,13 +18,17 @@ Además, muchas plataformas no personalizan adecuadamente las recomendaciones qu
 Desarollar un sistema basado en la información de nuestros usuarios que permita **recomendar** opciones de comida rápida de forma **persnalizada**, optimizando la experiencia del usuario.
 
 ## Funcionamiento del Sistema
-EL sistema opera mediante el siguiente flujo:<br>
-<br>
-**1.** EL usuario ingresa sus preferencias (tipo de comida, presupuesto, alergias, etc.)<br>
-**2.** EL sistema accede a una base de datos de productos<br>
-**3.** Se aplican los filtros según las preferencias<br>
-**4.** Se calcula un puntaje para cada opción<br>
-**5.** Se genera un ranking con las mejores recomendaciones<br>
+EL sistema opera mediante el siguiente flujo:
+
+1. EL usuario ingresa sus preferencias (tipo de comida, presupuesto, alergias, etc.)
+
+2. EL sistema accede a una base de datos de productos
+
+3. Se aplican los filtros según las preferencias
+
+4. Se calcula un puntaje para cada opción
+
+5. Se genera un ranking con las mejores recomendaciones>
 
 <p align="center">
     <img src="PASO A PASO SISTEMA.png" alt="Descripción" width="700"/>
