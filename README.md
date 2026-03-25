@@ -30,9 +30,6 @@ EL sistema opera mediante el siguiente flujo:
 </p>
 
 ## Datos que se utilizan
-EL sistema utiliza un conjunto de datos que incluye:
-
-## Datos que se utilizan
 
 El sistema utiliza un conjunto de datos que incluye los siguientes campos:
 | Atributo | Descripción |
