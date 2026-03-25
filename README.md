@@ -1,4 +1,4 @@
-<img align="right" width="150" src="Logo comida.png">
+<img align="right" width="150" src="burguer logo.jpg">
 
 <h1 align= "center"> Sistema de Recomendación de Comida Rápida</h1>
 
