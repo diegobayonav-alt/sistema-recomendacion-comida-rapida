@@ -1,6 +1,6 @@
 <img align="right" width="150" src="burguer logo.jpg">
 
-<h3 align="center">Sistema de Recomendación de Comida Rápida</h3>
+<h1 align="center">Sistema de Recomendación de Comida Rápida</h1>
 <br>
 
 *Este proyecto consiste en el desarrollo de un sistema de recomendación de comida rápida que sugiere opciones personalizadas a los usuarios en función de sus preferencias.
