@@ -31,11 +31,17 @@ EL sistema opera mediante el siguiente flujo:
 
 ## Datos que se utilizan
 EL sistema utiliza un conjunto de datos que incluye:
-- Nombre del producto
-- Categoría (hamburguesa, pizza, pollo, etc.)
-- Calificación
-- Ingredientes
-- Información nutricional
+
+## Datos que se utilizan
+
+El sistema utiliza un conjunto de datos que incluye los siguientes campos:
+| Atributo | Descripción |
+| :--- | :--- |
+| **Nombre del producto** | Nombre comercial del alimento. |
+| **Categoría** | Clasificación (ej: hamburguesa, pizza, pollo, etc.). |
+| **Calificación** | Puntaje o evaluación de los usuarios. |
+| **Ingredientes** | Listado de componentes del producto. |
+| **Información nutricional** | Detalles sobre calorías, grasas y valores nutricionales. |
 
 ## Metodología
 El desarollo del sistema sigue el siguiente enfoque:
